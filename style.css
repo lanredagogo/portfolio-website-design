@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgba(255, 235, 205, 0.412);
+    background-color: rgba(255, 254, 251, 0.992);
 }
 
 .container {
@@ -112,6 +112,7 @@ body {
     width: 330px;
     height: 160px;
     border-radius: 10px;
+    background-color: rgb(250, 211, 159);
     
 }
 
@@ -139,10 +140,18 @@ body {
     align-items: center;
     margin: 150px 150px;
     margin-bottom: 70px;
+
+}
+
+.about_me-img {
+    background-color: rgb(72, 250, 161);
+    width: 400px;
+        height: 400px;
+        border-radius: 200px;
 }
 
 .about_me-img img {
-    background-color: aquamarine;
+    
     
     width: 400px;
     height: 400px;
